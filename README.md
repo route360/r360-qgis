@@ -1,6 +1,6 @@
 # GIS Group QGIS Plugin
 
-developed by [Henning Jagd (GisGroup)](kontakt@gisgroup.dk)
+developed by [Henning Jagd (GisGroup)](linkmailto:kontakt@gisgroup.dk)
 
 ## Install
 1. Add repository `http://gisgroup.eu/plugins.xml` in `Settings>Manage and Install Plugins>Settings>Plugin repositories`
